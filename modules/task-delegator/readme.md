@@ -1,3 +1,19 @@
+# 📦 Module 08: SOFALA Task-Delegator (Kitchen Governance)
+
+🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Task-Delegator
+
+### 🚨 The Operational Pain
+Lack of traceability, compliance, and execution of vital routines in industrial kitchens.
+
+### ⚙️ The Technical Challenge
+Developing a fast-response "Tablet-First" dashboard for wall-mounted panels (Kitchen Display Systems).
+
+### ⚡ The Replit Advantage (Infrastructure)
+The platform's capacity to interpret niche UX guidelines. The Replit Agent built a high-contrast interface focused on large screens, isolating view components without adding unnecessary dependencies or routes that would bloat the project.
+
+### 💼 The Commercial Pitch (Business ROI)
+Quality control requires an immutable record. This module converts the shop floor (kitchen) into a digitized, high-governance environment. By using tools like Replit, we ensure our in-store solutions (like task terminals) are lightweight, remotely updatable, and foolproof.
+
 Módulo 08: SOFALA Task-Delegator (Kitchen Governance)
 
 A Dor Operacional: Falta de rastreabilidade, compliance e execução de rotinas vitais em cozinhas industriais.
