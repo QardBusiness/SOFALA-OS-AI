@@ -1,3 +1,20 @@
+# 📦 Module 04: SOFALA Workforce-AI (HR Prediction)
+
+🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Workforce-AI
+
+### 🚨 The Operational Pain
+Inflated costs with idle staff or lost sales due to a shortage of waiters/cooks.
+
+### ⚙️ The Technical Challenge
+Applying AI governance (strict Prompt Engineering) to prevent scope hallucinations and ensure the strict construction of a functional HR dashboard.
+
+### ⚡ The Replit Advantage (Infrastructure)
+The environment allowed testing the limits of Burn Rate control (token consumption). The platform faithfully obeyed the imposed scope locks and architectural restrictions, generating a surgical and clean interface via HTML/React, proving its maturity for restricted containerized operations.
+
+### 💼 The Commercial Pitch (Business ROI)
+For executives, innovation without governance is just cost. This module proves we know how to orchestrate AI within strict guardrails. We delivered intelligent staff sizing with absolute technical and budgetary predictability, transforming HR management into mathematical precision.
+
+
 Módulo 04: SOFALA Workforce-AI (HR Prediction)
 
 A Dor Operacional: Custos inflados com equipe ociosa ou perda de vendas por falta de garçons/cozinheiros.
