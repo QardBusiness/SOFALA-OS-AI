@@ -1,5 +1,7 @@
 # 📦 Module 01: SOFALA Loyalty-Agent (Cashback Intelligence)
 
+🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Loyalty-Agent
+
 ### 🚨 The Operational Pain
 Loss of customer retention in retail due to bureaucratic, high-friction loyalty programs.
 
@@ -11,6 +13,8 @@ The platform demonstrated exceptional infrastructural autonomy. The Replit envir
 
 ### 💼 The Commercial Pitch (Business ROI)
 As advocates for agile engineering, we utilized Replit to slash Time-to-Market from months to days. We delivered a "Zero-Click" retention experience at the checkout, proving that the SOFALA ecosystem converts cutting-edge tech into immediate revenue for the merchant—supported by infrastructure that scales itself.
+
+
 
 # Módulo 01: SOFALA Loyalty-Agent (Cashback Intelligence)
 
