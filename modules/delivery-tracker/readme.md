@@ -1,3 +1,20 @@
+# 📦 Module 06: SOFALA Delivery-Tracker (Zero-Click Logistics)
+
+🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Delivery-Tracker
+
+### 🚨 The Operational Pain
+Chaotic fleet management and inefficient communication with field couriers.
+
+### ⚙️ The Technical Challenge
+UX engineering for hostile environments (sunlight, rain, phone on a mount). Creating an atomic action panel ("One-Tap") with no margin for error.
+
+### ⚡ The Replit Advantage (Infrastructure)
+The platform's stability as a testing sandbox. We validated POST call integrations (status updates) in milliseconds. Replit's model delivered code structured exactly for high readability and lightweight DOM manipulation.
+
+### 💼 The Commercial Pitch (Business ROI)
+In logistics, friction costs money. This module highlights our ability to solve "last-mile" problems. We delivered a Zero-Click logistics solution designed for street reality. We chose Replit because it reflects our operational philosophy: eliminating technical obstacles to focus entirely on operational success and speed.
+
+
 Módulo 06: SOFALA Delivery-Tracker (Zero-Click Logistics)
 
 A Dor Operacional: Gestão de frota caótica e comunicação ineficiente com motoboys em campo.
