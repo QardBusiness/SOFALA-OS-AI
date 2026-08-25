@@ -1,3 +1,19 @@
+# 📦 Module 03: SOFALA Supply-Intelligence (Smart Inventory)
+
+🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Supply-Intelligence
+
+### 🚨 The Operational Pain
+Stockouts and capital tied up in idle inventory.
+
+### ⚙️ The Technical Challenge
+Creating a predictive supply interface based on business context and real geographic data.
+
+### ⚡ The Replit Advantage (Infrastructure)
+A true GenAI case study. The Replit Agent orchestrated parallel workflows and inferred precise geographic contexts autonomously. The platform didn't just serve as an IDE; it acted as a partner architect, assembling a complex dashboard through backend code interpretation.
+
+### 💼 The Commercial Pitch (Business ROI)
+AI adoption is not about generating code; it's about generating business value. We used Replit's native intelligence to prototype a predictive model that prevents restaurant cash flow ruptures. We show clients that we can design and deploy predictive Supply Chain solutions before the competition even finishes approving the scope.
+
 Módulo 03: SOFALA Supply-Intelligence (Smart Inventory)
 
 A Dor Operacional: Ruptura de estoque e capital imobilizado em insumos parados.
