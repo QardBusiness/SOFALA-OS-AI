@@ -2,6 +2,8 @@
 
 🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Loyalty-Agent
 
+PUBLISHED LINK - https://sofala-loyalty-agent.replit.app
+
 ### 🚨 The Operational Pain
 Loss of customer retention in retail due to bureaucratic, high-friction loyalty programs.
 
