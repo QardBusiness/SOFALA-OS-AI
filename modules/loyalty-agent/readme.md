@@ -1,8 +1,8 @@
 # 📦 Module 01: SOFALA Loyalty-Agent (Cashback Intelligence)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Loyalty-Agent
+### 🔗 Published Link - https://sofala-loyalty-agent.replit.app
 
-PUBLISHED LINK - https://sofala-loyalty-agent.replit.app
+*** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Loss of customer retention in retail due to bureaucratic, high-friction loyalty programs.
