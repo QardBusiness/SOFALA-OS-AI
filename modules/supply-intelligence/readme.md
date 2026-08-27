@@ -2,6 +2,8 @@
 
 🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Supply-Intelligence
 
+https://sofala-supply-intelligence.replit.app
+
 ### 🚨 The Operational Pain
 Stockouts and capital tied up in idle inventory.
 
