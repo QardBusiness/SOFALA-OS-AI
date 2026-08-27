@@ -1,6 +1,8 @@
 # 📦 Module 05: SOFALA Smart-List (Mobile Procurement)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Smart-List
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-smart-list.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Time wasted by managers on manual purchases in wholesale markets.
