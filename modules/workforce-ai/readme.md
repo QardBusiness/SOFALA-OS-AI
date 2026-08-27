@@ -1,6 +1,8 @@
 # 📦 Module 04: SOFALA Workforce-AI (HR Prediction)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Workforce-AI
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-gateway-baas.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Inflated costs with idle staff or lost sales due to a shortage of waiters/cooks.
