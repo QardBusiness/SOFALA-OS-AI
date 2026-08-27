@@ -2,7 +2,7 @@
 
 "Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
 
-🔗 Published Link - https://sofala-gateway-baas.replit.app *** to get the password send an email to contato@sofala.app
+🔗 Published Link - https://sofala-workforce-ai.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Inflated costs with idle staff or lost sales due to a shortage of waiters/cooks.
