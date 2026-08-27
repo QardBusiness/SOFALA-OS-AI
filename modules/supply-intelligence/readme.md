@@ -1,8 +1,8 @@
 # 📦 Module 03: SOFALA Supply-Intelligence (Smart Inventory)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Supply-Intelligence
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
 
-https://sofala-supply-intelligence.replit.app
+🔗 Published Link - https://sofala-supply-intelligence.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Stockouts and capital tied up in idle inventory.
