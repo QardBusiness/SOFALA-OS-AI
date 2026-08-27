@@ -1,6 +1,10 @@
 # 📦 Module 02: SOFALA Fintech-Gateway (Billing B2B)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Gateway-BaaS
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-gateway-baas.replit.app
+*** to get the password send an email to contato@sofala.app
+
 
 ### 🚨 The Operational Pain
 Friction in corporate billing and difficult financial onboarding for micro-entrepreneurs.
