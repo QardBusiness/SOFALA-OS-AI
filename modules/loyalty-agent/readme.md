@@ -2,9 +2,7 @@
 
 "Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
 
-### 🔗 Published Link - https://sofala-loyalty-agent.replit.app
-
-*** to get the password send an email to contato@sofala.app
+### 🔗 Published Link - https://sofala-loyalty-agent.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Loss of customer retention in retail due to bureaucratic, high-friction loyalty programs.
