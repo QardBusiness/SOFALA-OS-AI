@@ -1,6 +1,8 @@
 # 📦 Module 07: SOFALA Voice-Ledger (Invisible Cashier)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Voice-Ledger
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-voice-ledger.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Cash discrepancies caused by unrecorded daily operational expenses (payouts).
