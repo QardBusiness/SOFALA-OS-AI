@@ -1,6 +1,8 @@
 # 📦 Module 06: SOFALA Delivery-Tracker (Zero-Click Logistics)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Delivery-Tracker
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-delivery-tracker.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Chaotic fleet management and inefficient communication with field couriers.
