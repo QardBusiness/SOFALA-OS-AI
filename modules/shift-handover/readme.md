@@ -1,6 +1,8 @@
 # 📦 Module 09: SOFALA Shift-Handover (Risk Mitigation)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Shift-Handover
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-shift-handover.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Critical communication failures during shift handovers, generating losses or operational security risks.
