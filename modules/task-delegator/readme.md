@@ -1,6 +1,8 @@
 # 📦 Module 08: SOFALA Task-Delegator (Kitchen Governance)
 
-🔗 **Live Environment:** https://replit.com/t/leos-portfolio/repls/SOFALA-Task-Delegator
+"Note: This module is currently configured as a high-fidelity Vision Demo (Mocked Data) to validate UX and Business Value prior to core backend integration."
+
+🔗 Published Link - https://sofala-task-delegator.replit.app *** to get the password send an email to contato@sofala.app
 
 ### 🚨 The Operational Pain
 Lack of traceability, compliance, and execution of vital routines in industrial kitchens.
